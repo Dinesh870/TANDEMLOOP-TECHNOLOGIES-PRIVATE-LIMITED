@@ -20,7 +20,7 @@ Each problem is solved in a separate Java file as per the test instructions:
 
 ## 📝 Problem Descriptions
 
-## ✅ Problem 1:  Calculator using Class
+## Problem 1:  Calculator using Class
 
 - **Description**:  
   Create a calculator class that performs Addition, Subtraction, Multiplication, and Division.  
@@ -29,7 +29,7 @@ Each problem is solved in a separate Java file as per the test instructions:
   - `b` (double)  
   - `operation` (String: `"add"`, `"subtract"`, `"multiply"`, `"divide"`)  
 
-## ✅ Problem 2: Generate Odd Number Series (Pattern-1)
+## Problem 2: Generate Odd Number Series (Pattern-1)
 
 - **Description**:
 
