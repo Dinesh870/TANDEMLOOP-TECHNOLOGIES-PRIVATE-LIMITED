@@ -12,7 +12,7 @@ public class Program_1 {
             System.out.println("Enter second number");
             double input_2 = sc.nextDouble();
 
-            System.out.println("Eneter operation like(add/substract/multiply/divide)");
+            System.out.println("Eneter operation like(add/subtract/multiply/divide)");
             String operation = sc.next();
 
             Calculator calculator = new Calculator();
@@ -51,7 +51,7 @@ class Calculator {
         switch (operation) {
             case "add":
                 return add(a, b);
-            case "substract":
+            case "subtract":
                 return substract(a, b);
             case "multiply":
                 return multiply(a, b);
